@@ -1,0 +1,3 @@
+1. A Képek menübe tegyél min 3 képet, lehetõleg bootstrap grid-be
+2. Csinálj új menüt Bükk néven , szövegeket , képeket tegyél bele az ottani látnivalókról pl. Lillafüred, Nagy mezõ....stb.
+3. Csinálj új menüt Mátra néven, és ottani látványosságokról írj, tegyél képeket pl. Kékestetõ
